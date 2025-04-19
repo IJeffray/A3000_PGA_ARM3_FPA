@@ -1,6 +1,6 @@
 # Acorn A3000 ARM3 (PGA) processor card, with FPA.
 
-April 2024
+April 2025
 
 
 ![3D View](Generated/Archimedes_ARM3PGA_FPA_3D_View.PNG)
@@ -22,5 +22,5 @@ No warranty is provided, and this work is used at your own risk.
 
 Licenced as CC BY-SA 4.0
 
-Copyright 2024 Ian Jeffray
+Copyright 2025 Ian Jeffray
 
