@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=ARM2toARM3Adapter.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Lexmark T652
+TargetPrinter=lexmarkt652
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -112,17 +112,17 @@ Configuration5_Name1=OutputConfigurationParameter1
 Configuration5_Item1=tSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False
 
 [PublishSettings]
-OutputFilePath2=C:\SMS_Ltd\Projects\Calcivis Calibration\Altium\Calcivis_Calibration_Board\Manufacturing Data\Calcivis_Calibration_Board_VariantName_Rev0.1\
+OutputFilePath2=G:\AcornDev\MyARM3\ARM3PGA_FPA\Manufacturing Data\
 ReleaseManaged2=0
 OutputBasePath2=Manufacturing Data\
-OutputPathMedia2==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
+OutputPathMedia2=
 OutputPathMediaValue2==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
 OutputFileName2=Epipole USB camera_PCB_Rev1.0.pdf
 OutputFileNameMulti2==ProjectName+'_'+OutputName+'_'+VariantName+'_Rev'+PCB_RevNo
-UseOutputNameForMulti2=0
+UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
 OpenOutput2=0
 PromptOverwrite2=1
@@ -139,24 +139,24 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=G:\AcornDev\MyARM3\ARM3\Manufacturing Data\ARM2toARM3Adapter_VariantName_Rev1.1\
+OutputFilePath3=G:\AcornDev\MyARM3\ARM3PGA_FPA\Manufacturing Data\ARM2toARM3PGA_FPA_VariantName_Rev1.0\
 ReleaseManaged3=0
 OutputBasePath3=Manufacturing Data\
-OutputPathMedia3==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
+OutputPathMedia3=
 OutputPathMediaValue3==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
 OutputPathOutputer3=[Output Type]
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
 OutputFileName3=
 OutputFileNameMulti3==ProjectName+'_'+OutputName+'_'+VariantName+'_Rev'+PCB_RevNo
-UseOutputNameForMulti3=0
+UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\SMS_Ltd\Projects\Calcivis Calibration\Altium\Calcivis_Calibration_Board\Manufacturing Data\Calcivis_Calibration_Board_VariantName_Rev0.1\
+RelativeOutputPath2=G:\AcornDev\MyARM3\ARM3PGA_FPA\Manufacturing Data\
 OpenOutputs2=0
-RelativeOutputPath3=G:\AcornDev\MyARM3\ARM3\Manufacturing Data\ARM2toARM3Adapter_VariantName_Rev1.1\
+RelativeOutputPath3=G:\AcornDev\MyARM3\ARM3PGA_FPA\Manufacturing Data\ARM2toARM3PGA_FPA_VariantName_Rev1.0\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
