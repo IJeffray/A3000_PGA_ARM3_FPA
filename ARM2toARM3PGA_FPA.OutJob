@@ -125,7 +125,7 @@ OutputFileNameMulti2==ProjectName+'_'+OutputName+'_'+VariantName+'_Rev'+PCB_RevN
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
 OpenOutput2=0
-PromptOverwrite2=1
+PromptOverwrite2=0
 PublishMethod2=1
 ZoomLevel2=50
 FitSCHPrintSizeToDoc2=0
