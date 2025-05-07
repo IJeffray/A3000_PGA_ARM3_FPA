@@ -140,32 +140,32 @@ GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
 [Parameter1]
-Name=BOM_RevNo
-Value=1.0
+Name=Sch_RevNo
+Value=1.1
 
 [Parameter2]
-Name=Engineer_Name
-Value=Codion Ltd
+Name=Sch_releaseDate
+Value=May 2025
 
 [Parameter3]
-Name=PCB_RevNo
-Value=1.0
-
-[Parameter4]
 Name=Project_Title
 Value=ARM2 to ARM3 PGA Adapter with FPA
 
-[Parameter5]
+[Parameter4]
 Name=ProjectName
 Value=ARM2 to ARM3 PGA Adapter with FPA
 
+[Parameter5]
+Name=PCB_RevNo
+Value=1.1
+
 [Parameter6]
-Name=Sch_releaseDate
-Value=April 2025
+Name=Engineer_Name
+Value=Codion Ltd
 
 [Parameter7]
-Name=Sch_RevNo
-Value=1.0
+Name=BOM_RevNo
+Value=1.1
 
 [Configuration1]
 Name=Sources
